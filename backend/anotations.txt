@@ -1,0 +1,4 @@
+
+para executar o backend, abra o console na pasta backend e rode o comando npm run dev que irá chamar o nodemon
+
+O Mongoose é responsavel por gerenciar o acesso e as operações com a base do mongo
